@@ -1,6 +1,6 @@
 # Revisar el siguiente link para mas información sobre la creación automatica de Dockerfiles 
 # en Visual studio code https://aka.ms/vscode-docker-python
-FROM python:3.9-slim
+FROM tensorflow/tensorflow
 
 EXPOSE 5002
 
